@@ -1,6 +1,6 @@
 # Teacher Documentary
 
-Live site [Create React App](https://nazma-teacher-documentary.netlify.app/).
+Live site- https://nazma-teacher-documentary.netlify.app/
 
 ## About Teacher documentary
 
