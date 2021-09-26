@@ -22,7 +22,6 @@ const Teacher = () => {
     <div className="container-fluid">
       <div className="row">
         <div className="col-md-9 teacher-container">
-          {/* <h3>Teacher: {teachers.length}</h3> */}
           {teachers.map((teacher) => (
             <ShowTeacher
               key={teacher.id}
