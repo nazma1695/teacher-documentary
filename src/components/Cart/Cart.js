@@ -6,7 +6,7 @@ const Cart = (props) => {
   const { cart } = props;
   const userIcon = <FontAwesomeIcon icon={faUser} />;
   let total = 0;
-  for (const teacher in cart) {
+  for (const teacher of cart) {
     total = total + teacher.salary;
   }
   return (
