@@ -18,7 +18,6 @@ const Cart = (props) => {
       </h5>
       <h5>Total Cost: $ {total}</h5>
       <button className="btn btn-success">View Details</button>
-      <h3>Name:{console.log(props.cart.name)}</h3>
     </div>
   );
 };
